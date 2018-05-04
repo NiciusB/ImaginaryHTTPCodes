@@ -1,0 +1,23 @@
+{
+  "name": "imaginaryhttpcodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiciusB/ImaginaryHTTPCodes.git"
+  },
+  "author": "NiciusB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NiciusB/ImaginaryHTTPCodes/issues"
+  },
+  "homepage": "https://github.com/NiciusB/ImaginaryHTTPCodes#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "twit": "^2.2.9"
+  }
+}
