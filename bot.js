@@ -29,7 +29,7 @@ function tweet() {
 
 setInterval(() => {
   tweet()
-}, 69 * 60 * 1000)
+}, 3 * 60 * 60 * 1000)
 tweet()
 
 /*
